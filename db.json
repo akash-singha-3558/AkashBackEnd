@@ -2222,6 +2222,78 @@
   ],
    "hotels": [
     
+  ],
+  "dogs": [
+    {
+      "name": "Cherry",
+      "age": "2",
+      "place": "Female",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Tommy",
+      "age": "3",
+      "place": "Banglore",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Husky",
+      "age": "4",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Labrador",
+      "age": "2",
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "Bulldog",
+      "age": "2",
+      "place": "Assam",
+      "gender": "Female",
+      "id": 5
+    },
+    {
+      "name": "Golden Retriever",
+      "age": "2",
+      "place": "Pune",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "German Shepherd",
+      "age": "4",
+      "place": "Kolkata",
+      "gender": "Female",
+      "id": 7
+    },
+    {
+      "name": "Boxer",
+      "age": "2",
+      "place": "Himachal",
+      "gender": "Female",
+      "id": 8
+    },
+    {
+      "name": "Dobermann",
+      "age": "2",
+      "place": "Chennai",
+      "gender": "Male",
+      "id": 9
+    },
+    {
+      "name": "Dalmatian",
+      "age": "5",
+      "place": "Pune",
+      "gender": "Female",
+      "id": 10
+    }
   ]
     
 }
