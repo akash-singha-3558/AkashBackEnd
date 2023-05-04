@@ -2530,6 +2530,71 @@
         "price": "2000",
         "id": 22
       }
+    ],
+    "usersquiz": [
+      {
+        "id": 1683188652551,
+        "name": "chunnu",
+        "category": 10,
+        "difficulty": "medium",
+        "amount": "10",
+        "correct": 0,
+        "incorrect": 0
+      },
+      {
+        "id": 1683189379217,
+        "name": "fgh",
+        "category": 9,
+        "difficulty": "easy",
+        "amount": "10",
+        "correct": 0,
+        "incorrect": 0
+      },
+      {
+        "id": 1683189496113,
+        "name": "fgh",
+        "category": 9,
+        "difficulty": "easy",
+        "amount": "10",
+        "correct": 0,
+        "incorrect": 0
+      },
+      {
+        "id": 1683189621465,
+        "name": "fgh",
+        "category": 9,
+        "difficulty": "easy",
+        "amount": "10",
+        "correct": 0,
+        "incorrect": 0
+      },
+      {
+        "id": 1683189794562,
+        "name": "Akash Singha",
+        "category": "",
+        "difficulty": "",
+        "amount": "5",
+        "correct": 1,
+        "incorrect": 1
+      },
+      {
+        "id": 1683191033124,
+        "name": "chunnu",
+        "category": 10,
+        "difficulty": "easy",
+        "amount": "10",
+        "correct": 2,
+        "incorrect": 4
+      },
+      {
+        "id": 1683191664395,
+        "name": "chunnu",
+        "category": 10,
+        "difficulty": "easy",
+        "amount": "10",
+        "correct": 4,
+        "incorrect": 3
+      }
     ]
     
 }
