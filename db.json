@@ -2532,45 +2532,10 @@
       }
     ],
     "usersquiz": [
-      {
-        "id": 1683188652551,
-        "name": "chunnu",
-        "category": 10,
-        "difficulty": "medium",
-        "amount": "10",
-        "correct": 0,
-        "incorrect": 0
-      },
-      {
-        "id": 1683189379217,
-        "name": "fgh",
-        "category": 9,
-        "difficulty": "easy",
-        "amount": "10",
-        "correct": 0,
-        "incorrect": 0
-      },
-      {
-        "id": 1683189496113,
-        "name": "fgh",
-        "category": 9,
-        "difficulty": "easy",
-        "amount": "10",
-        "correct": 0,
-        "incorrect": 0
-      },
-      {
-        "id": 1683189621465,
-        "name": "fgh",
-        "category": 9,
-        "difficulty": "easy",
-        "amount": "10",
-        "correct": 0,
-        "incorrect": 0
-      },
+      
       {
         "id": 1683189794562,
-        "name": "Akash Singha",
+        "name": "Rahul Pandey",
         "category": "",
         "difficulty": "",
         "amount": "5",
@@ -2579,7 +2544,7 @@
       },
       {
         "id": 1683191033124,
-        "name": "chunnu",
+        "name": "Samay Raina",
         "category": 10,
         "difficulty": "easy",
         "amount": "10",
@@ -2588,7 +2553,7 @@
       },
       {
         "id": 1683191664395,
-        "name": "chunnu",
+        "name": "Bhuvan Roy",
         "category": 10,
         "difficulty": "easy",
         "amount": "10",
